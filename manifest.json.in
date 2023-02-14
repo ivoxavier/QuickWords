@@ -1,0 +1,15 @@
+{
+    "name": "quickwords.ivoxavier",
+    "description": "QuickWords is a game where you input words and theiy are showned randomly. Great for games with other people",
+    "architecture": "@CLICK_ARCH@",
+    "title": "QuickWords",
+    "hooks": {
+        "quickwords": {
+            "apparmor": "quickwords.apparmor",
+            "desktop":  "quickwords.desktop"
+        }
+    },
+    "version": "0.1.0",
+    "maintainer": "Ivo Xavier <ivofernandes12@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

@@ -1,0 +1,38 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the quickwords.ivoxavier package.
+#
+# Heimen Stoffels <vistausss@fastmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: quickwords.ivoxavier\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-14 12:38+0000\n"
+"PO-Revision-Date: 2023-02-21 13:21+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: Dutch\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.12.2\n"
+
+#: ../qml/WordInputDialog.qml:32 quickwords.desktop.in.h:1
+msgid "QuickWords"
+msgstr "Snelwoord"
+
+#: ../qml/WordInputDialog.qml:35
+msgid "Add a Word, each time"
+msgstr "Voeg één woord per keer toe"
+
+#: ../qml/WordInputDialog.qml:57
+msgid "Reset Words"
+msgstr "Alle woorden wissen"
+
+#: ../qml/WordInputDialog.qml:65
+msgid "Add"
+msgstr "Toevoegen"
+
+#: ../qml/WordInputDialog.qml:74
+msgid "Play"
+msgstr "Spelen"
